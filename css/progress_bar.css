@@ -1,0 +1,31 @@
+.slid {
+    width: 100%;
+     height: 24px;
+    background-color: #35414c;
+
+    border: solid 2.0px;
+    border-radius: 2px;
+    z-index: 0;
+
+
+}
+.bar{
+  alignment: left ;
+    ;align-content: initial;
+    height: 95%;
+    padding-left: -5px;
+    background: repeating-linear-gradient(green,cyan);
+    font-size: 90%;
+    z-index: 55;
+    margin-bottom: .5px;
+    text-align:end;
+    font-weight: bold;
+
+}
+
+#footer_fb:hover,#footer_linkedin:hover,#footer_git:hover,#footer_insta:hover{
+
+    opacity:.3;
+}
+
+
